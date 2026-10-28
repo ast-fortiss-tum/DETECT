@@ -93,7 +93,22 @@ We provide **trained or fine-tuned checkpoints upon request**. Please contact th
 
 ## 📝 Citation
 
+A preprint of the paper can be found on [arXiv](https://arxiv.org/abs/2601.14081).
 
+If you use our work in your research, or it helps it, or if you simply like it, please cite it in your publications. 
+Here is an example BibTeX entry:
+
+```
+@article{2026-Chen-TOSEM,
+  title = {Feature-Aware Test Generation for Deep Learning Models},
+  author = {Chen, Xingcheng and Weissl, Oliver and Stocco, Andrea},
+  year = {2026},
+  journal = {ACM Transactions on Software Engineering and Methodology},
+  url = {https://arxiv.org/abs/2601.14081},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA}
+}
+```
 
 ---
 
